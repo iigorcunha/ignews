@@ -1,5 +1,6 @@
 # ig.news
-  
+![ig.news](https://user-images.githubusercontent.com/52304812/130500198-6ba47379-1f2e-49a7-ab1e-46e04705fa49.png)
+
 ## Summary
 ig.news is a technology blog, that was implemented with preview pages, social authentication, and subscription.
 
